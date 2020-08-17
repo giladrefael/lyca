@@ -1,0 +1,81 @@
+{
+    "m": [
+        "meter",
+        "metere"
+    ],
+    "km": [
+        "kilometre",
+        "kilometer"
+    ],
+    "cm": [
+        "centimetre",
+        "centimeter"
+    ],
+    "mm": [
+        "millimetre",
+        "millimeter",
+        "milimeter"
+    ],
+    "um": [
+        "micrometre",
+        "micrometer"
+    ],
+    "nm": [
+        "nanometre",
+        "nanometer"
+    ],
+    "ft": [
+        "feet",
+        "foot"
+    ],
+    "inch": [
+        "in"
+    ],
+    "yard": [
+        "yd"
+    ],
+    "mile": [
+        "mi"
+    ],
+    "kg": [
+        "kilogram",
+        "kilogramme"
+    ],
+    "g": [
+        "gram",
+        "gramme"
+    ], 
+    "ton": [
+        "tonne"
+    ], 
+    "lb": [
+        "pound"
+    ], 
+    "oz": [
+        "ounce"
+    ], 
+    "l": [
+        "liter",
+        "litre"
+    ], 
+    "cc": [
+        "ml"
+    ], 
+    "gal": [
+        "gallon"
+    ], 
+    "min": [
+        "minute", 
+        "minutes",
+        "mins"
+    ],
+    "sec": [
+        "second",
+        "seconds",
+        "secs"
+    ],
+    "hr": [
+        "hour",
+        "hours"
+    ]
+}
